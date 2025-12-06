@@ -13,7 +13,7 @@ dependencies = [
 corr2p = "main:main"
 
 [build-system]
-requires = ["setuptools==70.0.0"]
+requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [dependency-groups]

@@ -30,7 +30,7 @@ uvx --from git+https://github.com/nt240/corr2p corr2p --r 0.5 --n 30
 #### Output example
 
 ```
-r=0.5, n=30, t=3.0091, p=0.0053658
+r=0.5, n=30, t=3.0551, p=0.00489993
 ```
 
 ### Local installation
@@ -72,7 +72,7 @@ uvx --from git+https://github.com/nt240/corr2p corr2p --r 0.5 --n 30
 #### 実行例
 
 ```
-r=0.5, n=30, t=3.0091, p=0.0053658
+r=0.5, n=30, t=3.0551, p=0.00489993
 ```
 
 ### ローカル実行
